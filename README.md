@@ -4,7 +4,7 @@
 
 Artemis Financial is a financial consultant looking to update their processes and apply best industry standards to protect their customers. Specifically, they are looking for a data verification step to their file transfer process.
 
-**What did you do well when you found your client’s software security vulnerabilities? **
+**What did you do well when you found your client’s software security vulnerabilities?**
 
 I was able to apply HTTPS to their process and deliver a better method for file transfer using standard practices.
 
